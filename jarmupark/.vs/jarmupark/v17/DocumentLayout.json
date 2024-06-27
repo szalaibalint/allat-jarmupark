@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\progi\\jarmuparkos\\jarmupark\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6943B48A-7BD3-4FD8-A3B7-E5DF4B073692}|jarmupark\\jarmupark.csproj|d:\\progi\\jarmuparkos\\jarmupark\\jarmupark\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6943B48A-7BD3-4FD8-A3B7-E5DF4B073692}|jarmupark\\jarmupark.csproj|solutionrelative:jarmupark\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\progi\\jarmuparkos\\jarmupark\\jarmupark\\Program.cs",
+              "RelativeDocumentMoniker": "jarmupark\\Program.cs",
+              "ToolTip": "D:\\progi\\jarmuparkos\\jarmupark\\jarmupark\\Program.cs",
+              "RelativeToolTip": "jarmupark\\Program.cs",
+              "ViewState": "AQIAALoAAAAAAAAAAAAYwMsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T06:49:44.268Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
